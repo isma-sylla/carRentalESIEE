@@ -48,8 +48,7 @@ git push origin --delete newcarservice
 
 ### Docker
 
-Create a Dockerfile in the code folder: https://github.com/charroux/st2scl/blob/main/rentalService/Dockerfile
-
+Create a Dockerfile in the code folder: https://github.com/charroux/carRentalEsiee/blob/main/rent/Dockerfile
 Build a Docker image:
 ```
 docker build -t rentalservice .      
